@@ -1,0 +1,20 @@
+a {
+  margin: auto;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.now_playing {
+  position: fixed;
+  padding: 80px;
+  background-color: #eeeeee;
+  border-radius: 8px;
+  margin: 40px 0 0 0;
+  max-width: 340px;
+}
